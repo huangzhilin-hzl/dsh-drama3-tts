@@ -8,7 +8,7 @@ Pipeline: **Clean and condense → Optional tone and prosody planning → Techni
 
 ## Demo
 
-<video controls src="https://cdn.jsdelivr.net/gh/huangzhilin-hzl/dsh-drama3-tts@main/examples/demo/demo.mp4"></video>
+https://github.com/user-attachments/assets/30d441fd-c965-4dbd-95d0-194666b04e99
 
 The recording starts in a DSH conversation: click **Read aloud** beside an assistant reply, then expand **View spoken text** and **Tone and pronunciation details** to inspect the condensed script and automatically generated tags while it plays. The player collapses when playback finishes. It uses local Drama 3 with the Jialan 3.5 reference voice at 1.2× speed; the recorded interface and speech are Chinese.
 
@@ -16,9 +16,9 @@ The video includes the actual audio played by the plugin, at its recorded speed.
 
 Speech sample on its own, with the plugin screenshot as the cover frame:
 
-<video controls src="https://cdn.jsdelivr.net/gh/huangzhilin-hzl/dsh-drama3-tts@main/examples/demo/speech-sample.mp4"></video>
+https://github.com/user-attachments/assets/b00bdce7-80d3-4267-aa05-43971abf1bb3
 
-Both clips come from this repository and are served through jsDelivr, because GitHub only plays media inline as an uploaded attachment and its media host is slow on some networks. Sources: [demo.mp4](examples/demo/demo.mp4) · [speech-sample.mp4](examples/demo/speech-sample.mp4) · [audio.mp3](examples/demo/audio.mp3).
+GitHub only renders an inline player for media uploaded as an attachment, so both clips come from this repository's [demo media issue](https://github.com/huangzhilin-hzl/dsh-drama3-tts/issues/1). Where GitHub's media CDN is slow, these mirrors of the same files play directly: [recording](https://cdn.jsdelivr.net/gh/huangzhilin-hzl/dsh-drama3-tts@main/examples/demo/demo.mp4) · [speech sample](https://cdn.jsdelivr.net/gh/huangzhilin-hzl/dsh-drama3-tts@main/examples/demo/speech-sample.mp4). Source files: [`examples/demo/`](examples/demo).
 
 ## Getting started
 
