@@ -18,7 +18,7 @@
 
 <video controls src="https://github.com/user-attachments/assets/b00bdce7-80d3-4267-aa05-43971abf1bb3"></video>
 
-GitHub 只对「附件」形式的媒体做内联播放，因此上面的播放器读取的是本仓库的[演示媒体 issue](https://github.com/huangzhilin-hzl/dsh-drama3-tts/issues/1)。仓库内保留了离线副本：[demo.mp4](examples/demo/demo.mp4) · [audio.mp3](examples/demo/audio.mp3)。
+GitHub 只对「附件」形式的媒体做内联播放，因此上面的播放器读取的是本仓库的[演示媒体 issue](https://github.com/huangzhilin-hzl/dsh-drama3-tts/issues/1)。若播放器没有正常加载，可以直接打开[录屏](https://github.com/user-attachments/assets/30d441fd-c965-4dbd-95d0-194666b04e99)或[语音样例](https://github.com/user-attachments/assets/b00bdce7-80d3-4267-aa05-43971abf1bb3)，也可以使用 [`examples/demo/`](examples/demo) 里的离线副本。
 
 ## 开始使用
 

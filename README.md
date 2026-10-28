@@ -18,7 +18,7 @@ Speech sample on its own, with the plugin screenshot as the cover frame:
 
 <video controls src="https://github.com/user-attachments/assets/b00bdce7-80d3-4267-aa05-43971abf1bb3"></video>
 
-GitHub only plays media inline when it is uploaded as an attachment, so both players stream from this repository's [demo media issue](https://github.com/huangzhilin-hzl/dsh-drama3-tts/issues/1). Repository copies for offline use: [demo.mp4](examples/demo/demo.mp4) · [audio.mp3](examples/demo/audio.mp3).
+GitHub only plays media inline when it is uploaded as an attachment, so both players stream from this repository's [demo media issue](https://github.com/huangzhilin-hzl/dsh-drama3-tts/issues/1). If a player does not load, open the [recording](https://github.com/user-attachments/assets/30d441fd-c965-4dbd-95d0-194666b04e99) or the [speech sample](https://github.com/user-attachments/assets/b00bdce7-80d3-4267-aa05-43971abf1bb3) in a new tab, or use the offline copies in [`examples/demo/`](examples/demo).
 
 ## Getting started
 
