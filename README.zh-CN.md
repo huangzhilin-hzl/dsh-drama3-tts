@@ -8,13 +8,17 @@
 
 ## Demo 演示
 
-[![DSH 聊天界面实录：点击回复旁的朗读按钮，自动精简并添加语气标签](examples/demo/preview.png)](examples/demo/demo.mp4)
-
-[观看 DSH 实际使用录屏](examples/demo/demo.mp4) · [直接试听](examples/demo/audio.mp3)
+<video controls src="https://github.com/user-attachments/assets/fab33089-a9bb-483d-b52e-3034e6aa4957"></video>
 
 录屏从 DSH 聊天界面开始：点击助手回复旁的朗读按钮，在播放时展开「查看朗读内容」和「语气与发音详情」，查看自动生成的精简稿和语气标签，直至播放完成、播放器自动收起。合成使用本地 Drama 3、嘉岚 3.5 参考音色和 1.2 倍语速；录屏界面和语音均为中文。
 
-视频配音就是插件本次实际播放的音频，按原始速度播放。视频和单独的音频样例均可离线观看、试听。
+视频配音就是插件本次实际播放的音频，按原始速度播放。
+
+单独试听的语音样例，封面为插件截图：
+
+<video controls src="https://github.com/user-attachments/assets/2dac30f6-86b7-479a-8657-270111f69eea"></video>
+
+GitHub 只对「附件」形式的媒体做内联播放，因此上面的播放器读取的是本仓库的[演示媒体 issue](https://github.com/huangzhilin-hzl/dsh-drama3-tts/issues/1)。仓库内保留了离线副本：[demo.mp4](examples/demo/demo.mp4) · [audio.mp3](examples/demo/audio.mp3)。
 
 ## 开始使用
 
