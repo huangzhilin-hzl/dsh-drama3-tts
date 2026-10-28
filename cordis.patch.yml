@@ -1,0 +1,5 @@
+# Bundle patch layer: one Host row loads `index.js`; the `dsh.client`
+# declaration makes the Web app load `./client.js` as the browser half.
+- insert:
+    - id: drama3-tts
+      name: dsh-drama3-tts
